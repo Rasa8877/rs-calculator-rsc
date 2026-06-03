@@ -11,7 +11,7 @@ Version: **0.3.2** – *Improved API with setv() and calc()*
 
 ```bash
 pip install rsc
-
+```
 or
 
 ```bash
